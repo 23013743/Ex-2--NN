@@ -1,6 +1,8 @@
 <H3>Name: NIRMAL N </H3>
 <H3>Register no: 212223240107</H3>
 
+## date: 14.03.2025
+
 
 # Ex 02 - Implementation of Perceptron for Binary Classification
 
